@@ -21,8 +21,63 @@ header {
 
 .title_header {
     font-size: 5em;
+    color: rgb(202, 202, 202);
 }
 
 .subtitle {
     font-size: 1.5em;
+    font-weight: bold;
+    
+}
+
+.sale {
+    background-color: rgb(218, 218, 218);
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 3em;
+}
+
+.info {
+    margin-bottom: 2em;
+}
+
+.image_1 {
+        width: 100%;
+        height: 25em;
+}
+
+.text_creutzawld {
+    margin-top: 8em;
+}
+
+.contact {
+    margin-top: 3em;
+}
+
+.contact_2 {
+    margin-bottom: 5em;
+}
+
+.contact_title {
+    font-weight: bold;
+}
+
+.contact_name {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.contact_creutzawld {
+    margin-bottom: 2em;
+}
+
+
+.text_contact {
+    line-height: 2em;
+}
+
+.copy {
+    padding: 3em;
+    background-color: rgb(54, 54, 54);
+
 }
